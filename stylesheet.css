@@ -1,0 +1,47 @@
+body {
+    background-color: aquamarine;
+
+    
+}
+
+#header {
+    background-color: aliceblue;
+    text-align: center;
+    border-width: 25%;
+    border-radius: 1px;
+    border-style: solid;
+}
+
+img {
+    border-radius: 50%;
+    width: 50%;
+    height: 25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: right;
+}
+
+#navlinks {
+    position: fixed;
+
+}
+
+#list {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 15px;
+    margin-left: 35%;
+}
+
+#footer {
+    background-color: aliceblue;
+    text-align: center;
+    border-width: 25%;
+    border-radius: 1px;
+    border-style: solid;
+}
